@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Arthur Caetano Da Silva
 
-<!--
-**arthur-ro/arthur-ro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de programação com foco em lógica, Git/GitHub e desenvolvimento Web.  
+🚀 Explorando Python, JavaScript e práticas de versionamento.  
+📈 Sempre buscando novos desafios para evoluir.
 
-Here are some ideas to get you started:
+## 🔧 Tecnologias
+- Python 🐍
+- JavaScript
+- Git / GitHub
+- HTML & CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur-ro&show_icons=true&theme=dracula)
+
+## 📫 Contato
+- zap (62)996119198
+- Email: seuemail@gmail.com
