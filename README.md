@@ -33,7 +33,7 @@
 - 📘 [Aprendendo-GitHub](https://github.com/arthur-ro/Aprendendo-GitHub) – Primeiros passos com Git e GitHub.
 - 💡 [Logica-poo](https://github.com/arthur-ro/Logica-poo) – Praticando lógica e POO em Python.
 - 🧠 [EM-DUO](https://github.com/arthur-ro/EM-DUO) – Testes de aprendizado e aplicações simples.
-- 🧪 *[Novos projetos em breve: To-Do App, API de tarefas, Portfólio Web]*
+- 🧪 *[Novos projetos em breve]*
 
 ---
 
