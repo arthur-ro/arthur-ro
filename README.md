@@ -1,6 +1,4 @@
-<!-- ============================== -->
-<!--     README ULTRA PROFISSIONAL   -->
-<!-- ============================== -->
+
 
 <h1 align="center">Arthur Caetano</h1>
 <p align="center"><i>"Disciplina vence talento. Sou prova viva de que a construção diária gera resultados extraordinários."</i></p>
@@ -8,9 +6,10 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Idade-17%20anos-blue?style=for-the-badge&logo=appveyor" />
   <img src="https://img.shields.io/badge/Stack-Full%20Stack-orange?style=for-the-badge&logo=visual-studio-code" />
-  <img src="https://img.shields.io/badge/Origem-Tocantins%2C%20Brasil-green?style=for-the-badge&logo=google" />
+  <img src="https://img.shields.io/badge/Origem-Damianópolis%2C%20GO%2C%20Brasil-green?style=for-the-badge&logo=google" />
   <img src="https://img.shields.io/badge/Nível-Aprendizado%20Avançado-yellow?style=for-the-badge&logo=learning" />
 </div>
+
 
 ---
 
@@ -70,7 +69,3 @@ Não espero chegar pronto, construo minha expertise na prática, com disciplina 
 
 ---
 
-## 🐍 Meu desafio diário: a Snake de contribuições
-
-```md
-![Snake animation](https://github.com/arthur-ro/arthur-ro/blob/output/github-contribution-grid-snake.svg)
