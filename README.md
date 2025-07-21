@@ -1,53 +1,46 @@
-# 👋 Olá! Eu sou Arthur Caetano
+# 👋 Olá, eu sou Arthur Caetano da Silva
 
-Sou um estudante e desenvolvedor em formação, com foco total em me tornar um *Desenvolvedor Full Stack*. Gosto de tecnologia, de trabalhar no computador e principalmente de resultados — por isso estou investindo meu tempo para aprender programação de forma séria, com disciplina e objetivo.
-
----
-
-## 🚀 Em busca de crescimento
-
-- 🎓 Finalizando o ensino médio (últimos meses)
-- 💼 Estudando para entrar no mercado de tecnologia com força
-- 📈 Foco em salário, estabilidade e evolução constante
+🎯 Desenvolvedor em formação com foco em **Full Stack**  
+💼 Em busca da primeira oportunidade na área de tecnologia  
+🎓 Estudando para concluir o Ensino Médio (falta pouco!)  
+🚀 Apaixonado por desafios, tecnologia e por transformar ideias em código
 
 ---
 
-## 🛠 Habilidades em desenvolvimento
+### 💻 Tecnologias que estou aprendendo
 
-- *Lógica de programação e POO* (Python e JavaScript)
-- *Desenvolvimento Web* com:
-  - HTML, CSS, JavaScript
-  - React (em aprendizado)
-  - Node.js e Express (iniciante)
-- *Git e GitHub* para versionamento
-- Princípios de *banco de dados* e *API REST*
-
----
-
-## 📚 Meus estudos estão organizados assim:
-
-1. Aprender *lógica de programação e POO*
-2. Estudar Front-end (HTML, CSS, JavaScript, React)
-3. Aprender Back-end (Node.js, Express, MongoDB)
-4. Praticar com projetos e desafios reais
-5. Melhorar portfólio e criar um GitHub forte
+- 🧠 **Lógica de Programação**
+- 🌐 HTML | CSS | JavaScript
+- ⚛️ React (iniciante)
+- 🐍 Python básico
+- 🐘 PostgreSQL (banco de dados relacional)
+- 🛠️ Git e GitHub para versionamento de código
 
 ---
 
-## 🧠 Valores que me movem
+### 📚 Foco atual
 
-- Foco e disciplina
-- Clareza nos objetivos
-- Progresso todo dia, mesmo que pequeno
-- Construir um futuro sólido com a tecnologia
+> "Aprender o necessário para entrar forte no mercado e crescer rápido."
 
----
-
-## 📬 Contato
-
-📧 *arthur.caetano.da.silva01@gmail.com*
+- Consolidar fundamentos de programação
+- Criar projetos práticos para o portfólio
+- Estudar boas práticas de código limpo
+- Aprender sobre backend com Node.js e APIs
 
 ---
 
-> “Você pode não controlar o talento com que nasceu, mas pode controlar o esforço que coloca todos os dias.”  
-> — Arthur Caetano
+### 📈 Em constante evolução
+
+Aqui no GitHub estou postando meus projetos, estudos e experimentos.  
+Cada repositório mostra uma parte da minha jornada — dos primeiros passos à construção de aplicações completas.
+
+---
+
+### 📩 Fale comigo
+
+- Email: arthur.caetano.da.silva01@gmail.com
+- LinkedIn (em breve)
+
+---
+
+⭐ Se gostou do meu trabalho, deixe uma estrela nos repositórios que você curtir!
