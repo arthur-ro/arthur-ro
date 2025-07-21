@@ -31,12 +31,11 @@
 - [ ] Estudar Banco de Dados (MySQL)
 
 ---
+## 📊 Minhas Estatísticas no GitHub
 
-## 📈 Minhas Estatísticas no GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ArthurCaetanoDaSilva&show_icons=true&theme=tokyonight)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCaetanoDaSilva&layout=compact&theme=tokyonight)
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur-ro&show_icons=true&theme=dark)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-ro&layout=compact&theme=dark)
 
 
 ---
