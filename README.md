@@ -38,9 +38,6 @@
 
 ---
 
-## 📫 Contato
-- Email: seuemail@email.com
-- LinkedIn: [Seu LinkedIn Aqui](https://linkedin.com/in/seu-link)
 
 ---
 
