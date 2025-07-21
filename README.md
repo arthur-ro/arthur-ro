@@ -1,56 +1,30 @@
-<h1 align="center">👋 Olá, eu sou o Arthur Caetano</h1>
+<h1 align="center">Arthur Caetano</h1>
+<h3 align="center">💻 Desenvolvedor Full Stack em construção | 🎯 Foco em resultados | 📈 Rumo à alta performance</h3>
 
 <p align="center">
-  🎯 Desenvolvedor em formação com foco em <strong>Full Stack</strong><br/>
-  🚀 Buscando a primeira oportunidade profissional<br/>
-  📚 Sempre aprendendo e evoluindo
+  <a href="mailto:arthur.caetano.da.silva01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/arthur-ro"><img src="https://img.shields.io/github/followers/arthur-ro?label=GitHub&style=flat&logo=github" alt="GitHub"/></a>
 </p>
 
 ---
 
 ### 🧠 Sobre mim
 
-- 🔭 Atualmente estudando **JavaScript, React e Node.js**
-- 🌱 Também aprendendo **Git, Banco de Dados e lógica**
-- 🎓 Finalizando o Ensino Médio
-- ⚡ Foco total em crescer na carreira e mudar de vida com a tecnologia
+- 🚀 Estudante dedicado com foco em desenvolvimento **Full Stack**
+- 🎓 Finalizando o Ensino Médio e estudando programação diariamente
+- 🧱 Construindo projetos para portfólio e aplicando boas práticas
+- 💡 Mentalidade de crescimento: aprender, aplicar e evoluir constantemente
 
 ---
 
-### 🛠️ Tecnologias que estou aprendendo
+### ⚙️ Tecnologias que utilizo
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
----
-
-### 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurCaetano01&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCaetano01&layout=compact&langs_count=8&theme=radical"/>
-</p>
-
----
-
-### 🐍 Snake de contribuições
-
-![snake gif](https://github.com/ArthurCaetano01/ArthurCaetano01/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 📫 Contato
-
-- ✉️ arthur.caetano.da.silva01@gmail.com
-
----
-
-### 💬 Frase que me guia
-
-> "Disciplina vence o talento."
+```bash
+🔹 HTML5 / CSS3
+🔹 JavaScript (ES6+)
+🔹 React (em progresso)
+🔹 Node.js (iniciante)
+🔹 Git e GitHub
+🔹 PostgreSQL / MySQL
+🔹 Python básico
 
