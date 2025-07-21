@@ -14,14 +14,6 @@
 
 ---
 
-## 📌 Projetos em Desenvolvimento
-| Projeto              | Descrição                                     | Status   |
-|----------------------|---------------------------------------------|----------|
-| Site Pessoal         | Meu primeiro portfólio pessoal em HTML/CSS   | Em Andamento |
-| Bot Discord Simples  | Bot de comandos simples usando Python        | Em Andamento |
-| CRUD com Flask       | API simples de cadastro de usuários          | Planejado |
-
----
 
 ## 🎯 Minhas Metas
 - [x] Aprender lógica de programação
