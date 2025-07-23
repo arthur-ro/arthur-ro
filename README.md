@@ -45,8 +45,8 @@
 
 ## ✨ Repositórios em destaque
 
-- [Nome do Projeto](https://github.com/SEU-USUARIO/NOME-DO-PROJETO) – Pequena descrição do que faz
-- [Outro Projeto](https://github.com/SEU-USUARIO/NOME-DO-PROJETO) – Outro projeto interessante que mostra suas habilidades
+- [Nome do Projeto](https://github.com/arthur-ro/arthur-ro) – Pequena descrição do que faz
+- [Outro Projeto](https://github.com/arthur-ro/arthur-ro) – Outro projeto interessante que mostra suas habilidades
 
 ---
 
