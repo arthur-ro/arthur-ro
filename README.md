@@ -11,7 +11,8 @@
 🎓 Aprendendo sobre Desenvolvimento Web, Lógica de Programação, Git e GitHub  
 🎯 Buscando minha primeira oportunidade como Dev Júnior ou Estágio  
 📍 Damianópolis - GO  
-🔗 [Meu LinkedIn](https://www.linkedin.com/in/arthur-caetano-da)  
+🔗🔗 [Meu LinkedIn](https://www.linkedin.com/in/arthur-caetano-da)
+
 
 ---
 
