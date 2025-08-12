@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Arthur Caetano da Silva</h1>
 
 <p align="center">
-  Desenvolvedor em formação | Foco em Front-end & Lógica de Programação | Estudando Python & GitHub
+  Desenvolvedor em formação | Foco em Full-Stack | Estudando Python & GitHub
 </p>
 
 ---
@@ -31,7 +31,6 @@
 - Entender Git e GitHub  
 - Criar e postar pequenos projetos  
 - Aprofundar em Python e JavaScript  
-- Estudar Banco de Dados (MySQL)  
 
 ---
 
