@@ -27,7 +27,7 @@
 
 ## 🎯 Minhas Metas
 
-- Aprender lógica de programação  
+- Melhorar na lógica de programação  
 - Criar meu primeiro projeto  
 - Aprofundar em HTNL, CSS e JS
 
