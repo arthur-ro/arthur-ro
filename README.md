@@ -18,9 +18,9 @@
 
 ## 🧠 Tecnologias que estou aprendendo
 
-- 💻 **Linguagens**: Python, JavaScript  
+- 💻 **Linguagens**: JavaScript  
 - 🌐 **Frontend**: HTML, CSS  
-- 🔙 **Backend**: Python (básico)  
+- 🔙 **Backend**: JavaScript 
 - 🔧 **Versionamento**: Git e GitHub  
 
 ---
@@ -28,9 +28,8 @@
 ## 🎯 Minhas Metas
 
 - Aprender lógica de programação  
-- Entender Git e GitHub  
-- Criar e postar pequenos projetos  
-- Aprofundar em Python e JavaScript  
+- Criar meu primeiro projeto  
+- Aprofundar em HTNL, CSS e JS
 
 ---
 
