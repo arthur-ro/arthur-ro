@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Arthur Caetano da Silva</h1>
 
 <p align="center">
-  Desenvolvedor em formação | Foco em Full-Stack | Estudando Python & GitHub
+  Desenvolvedor em formação | Foco em Front-End | Estudando Python & GitHub
 </p>
 
 ---
