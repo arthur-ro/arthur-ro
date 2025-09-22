@@ -29,7 +29,7 @@
 
 - Melhorar na lógica de programação  
 - Criar meu primeiro projeto  
-- Aprofundar em HTNL, CSS e JS
+- Aprofundar em HTML, CSS e JS
 
 ---
 
