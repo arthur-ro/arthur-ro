@@ -60,8 +60,5 @@
 ## ⏰ **Coding Activity**
 
 <div align="center">
-  
-  <!-- Activity Graph Compact -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tatyquebralayout&theme=redical&hide_border=true&bg_color=0d1117&color=7c3aed&line=7c3aed&point=7c3aed&area=true&area_color=7c3aed&custom_title=Atividade%20de%20Desenvolvimento" alt="Activity Graph" />
-  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sophia-15&custom_title=Arthur's%20GitHub%20Activity%20Graph&bg_color=000&color=0061C3&line=626069&point=fff&area_color=2563eb&title_color=0061C3&area=true&hide_border=true" alt="Sophia-15's Github Activity Graph" width="96%">
 </div>
