@@ -60,5 +60,5 @@
 ## ⏰ **Coding Activity**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthur-ro-15&custom_title=Arthur's%20GitHub%20Activity%20Graph&bg_color=000&color=0061C3&line=626069&point=fff&area_color=2563eb&title_color=0061C3&area=true&hide_border=true" alt="arthur-ro's Github Activity Graph" width="96%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthur-15&custom_title=Arthur's%20GitHub%20Activity%20Graph&bg_color=000&color=0061C3&line=626069&point=fff&area_color=2563eb&title_color=0061C3&area=true&hide_border=true" alt="arthur-ro's Github Activity Graph" width="96%">
 </div>
